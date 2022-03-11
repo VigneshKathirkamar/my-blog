@@ -6,3 +6,5 @@ layout: home-misc
 title: "Miscellaneous"
 category: misc
 ---
+
+First miscellaneous blog post

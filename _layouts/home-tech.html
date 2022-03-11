@@ -26,11 +26,9 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
       </li>
-      {%- endif -%}
-      {%- endfor -%}
+      {%- endif -%}{%- endfor -%}
     </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <p class="rss-subscribe">subscribe <a href="{{ "/tech-blog/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
 </div>

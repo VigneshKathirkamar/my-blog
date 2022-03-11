@@ -4,5 +4,6 @@
 
 layout: home-tech
 title: "Tech blog"
-category: Tech
+category: tech
 ---
+My tech blog
